@@ -1,6 +1,8 @@
-# An Introduction to AWS Comprehend
+![AWS](https://upload.wikimedia.org/wikipedia/commons/1/1d/AmazonWebservices_Logo.svg)
 
-AWS Comprehend can ofcourse read simple text. Apart from that, it can identify forms and tables as well.
+# An Introduction to AWS Textract
+
+AWS Textract can read text. Not just simple text, it can identify forms and tables as well.
 
 ### A Simple Table:
 
