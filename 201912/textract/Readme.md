@@ -13,8 +13,11 @@ Row 2 | Row 2 / Column 1 | Row 2 / Column 2 | Row 2 / Column 3
 Row 3 | Row 3 / Column 1 | Row 3 / Column 2 | Row 3 / Column 3
 
 ### A Simple Form:
+Please provide the required details:
 
-**First Name**: Vikas
-**Last Name**: Solegaonkar
-**Email**: user@domain.com
-**Address**: Block, Street, Locality, Town, State, Country
+Required| Information
+--- | --- 
+**First Name**| Vikas
+**Last Name**| Solegaonkar
+**Email**| user@domain.com
+**Address**| Block, Street, Locality, Town, State, Country
