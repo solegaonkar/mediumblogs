@@ -14,7 +14,7 @@ Row 3 | Row 3 / Column 1 | Row 3 / Column 2 | Row 3 / Column 3
 
 ### A Simple Form:
 
-##### First Name: Vikas
-##### Last Name: Solegaonkar
-##### Email: user@domain.com
-##### Address: Block, Street, Locality, Town, State, Country
+**First Name**: Vikas
+**Last Name**: Solegaonkar
+**Email**: user@domain.com
+**Address**: Block, Street, Locality, Town, State, Country
