@@ -15,9 +15,11 @@ Row 3 | Row 3 / Column 1 | Row 3 / Column 2 | Row 3 / Column 3
 ### A Simple Form:
 Please provide the required details:
 
-Arrtibure | Value
---- | ---
-First Name | ______________________________
-Last Name | ______________________________
-Email | ______________________________
-Address | ______________________________
+
+#### First Name:
+Vikas____________________________________
+#### Last Name:
+Solegaonkar______________________________
+
+- **First Name:** Vikas____________________________________
+- **Last Name: ** Solegaonkar______________________________
