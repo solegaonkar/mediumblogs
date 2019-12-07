@@ -15,9 +15,7 @@ Row 3 | Row 3 / Column 1 | Row 3 / Column 2 | Row 3 / Column 3
 ### A Simple Form:
 Please provide the required details:
 
-Required| Information
---- | --- 
-**First Name**| Vikas
-**Last Name**| Solegaonkar
-**Email**| user@domain.com
-**Address**| Block, Street, Locality, Town, State, Country
+#### First Name:   __________________
+#### Last Name:    __________________
+#### Email:        _____________________
+#### Address:      _________________________
