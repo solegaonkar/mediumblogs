@@ -17,7 +17,7 @@ Please provide the required details:
 
 Arrtibure | Value
 --- | ---
-First Name | ____________________
-Last Name | ____________________
-Email | ____________________
-Address | ____________________
+First Name | ______________________________
+Last Name | ______________________________
+Email | ______________________________
+Address | ______________________________
