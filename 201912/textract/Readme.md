@@ -15,7 +15,9 @@ Row 3 | Row 3 / Column 1 | Row 3 / Column 2 | Row 3 / Column 3
 ### A Simple Form:
 Please provide the required details:
 
-#### First Name:   __________________
-#### Last Name:    __________________
-#### Email:        _____________________
-#### Address:      _________________________
+Arrtibure | Value
+--- | ---
+First Name | ____________________
+Last Name | ____________________
+Email | ____________________
+Address | ____________________
