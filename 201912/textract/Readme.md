@@ -14,13 +14,7 @@ Row 3 | Row 3 / Column 1 | Row 3 / Column 2 | Row 3 / Column 3
 
 ### A Simple Form:
 
-##### First Name: ___________
-##### Last Name: ____________
-##### Email: ____________
-##### Address: ____________
-
-### Form in a Table
-Field | Value | Field | Value
----|---|---|---
-First Name:|________________________ | Last Name:| ________________________
-Email:| ________________________ | Address:| ________________________
+##### First Name: Vikas
+##### Last Name: Solegaonkar
+##### Email: user@domain.com
+##### Address: Block, Street, Locality, Town, State, Country
