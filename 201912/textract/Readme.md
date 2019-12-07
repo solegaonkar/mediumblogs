@@ -15,11 +15,5 @@ Row 3 | Row 3 / Column 1 | Row 3 / Column 2 | Row 3 / Column 3
 ### A Simple Form:
 Please provide the required details:
 
-
-#### First Name:
-Vikas____________________________________
-#### Last Name:
-Solegaonkar______________________________
-
 - **First Name:** Vikas____________________________________
-- **Last Name: ** Solegaonkar______________________________
+- **Last Name:** Solegaonkar______________________________
